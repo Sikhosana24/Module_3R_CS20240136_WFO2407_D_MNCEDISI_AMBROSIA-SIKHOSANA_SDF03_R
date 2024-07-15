@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [SDF03] Project: CS Cat HTML Portfolio 😼
 
 Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
@@ -30,3 +31,6 @@ You have everything you need to start your project using this starter project. T
 1. Submit your GitHub Repo link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
 
+=======
+# Module_3R_CS20240136_WFO2407_D_MNCEDISI_AMBROSIA-SIKHOSANA_SDF03_R
+>>>>>>> 941c2e31254918dd207bc4e1dcb4f3e290d873b1
